@@ -20,11 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first year Master student at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). I am a member of [Knowledge Works Research Laboratory](http://kw.fudan.edu.cn/) and is supervised by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ). I received my BS CS degree in 2022 from Fudan University. During my undergraduate years, I've been working with Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ).
 
+Besides research, I enjoy swimming🏊‍♂️, basketball🏀, bowling🎳, and piano🎹. Recently, I am learning Jazz🎹.
+
 ## Research Interests
 
-My research interests are broadly in natural language processing and artificial intelligence. Currently, my interests focus on exploring the capabilities of large language models and their applications. My recent works can be summarize as:
+My research interests are broadly in natural language processing and artificial intelligence. Currently, my interests focus on exploring the capabilities of large language models and their applications. My recent interests can be summarized as:
 
-- **LLMs as agents**, especially facilitating language models to solve complicated crossword puzzles requiring world knowledge and reasoning abilities.
+- **LLMs as agents**, especially facilitating language models to solve complicated tasks requiring world knowledge and reasoning abilities.
 - **Commonsense distillation**, especially hypernymy detection.
 - **Knowledge graph completion**, including entity linking, taxonomy expansion and taxonomy construction.
 <!-- - **Symbolic reasoning with LLM**, still trying to understand the relation between the reasoning abilities of LLM and symbolic reasoning like first order logic. -->

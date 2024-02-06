@@ -1,0 +1,252 @@
+{
+  "basics": {
+    "name": "Tinghui Zhu",
+    "label": "CS Master Student at Fudan University",
+    // "image": "",
+    "email": "darthzhu@gmail.com",
+    // "phone": "(912) 123-4567",
+    // "url": "https://alshedivat.github.io/al-folio/",
+    // "summary": "CS Master Student at Fudan University",
+    // "location": {
+    //   "address": "2712 Broadway St",
+    //   "postalCode": "CA 94115",
+    //   "city": "San Francisco",
+    //   "countryCode": "US",
+    //   "region": "California"
+    // },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "DarthZhu_",
+        "url": "https://twitter.com/DarthZhu_"
+      }
+    ]
+  },
+  // "work": [
+  //   {
+  //     "name": "Institute for Advanced Study, Princeton University",
+  //     "position": "Professor of Theoretical Physics",
+  //     "url": "https://example.com",
+  //     "startDate": "1933-01-01",
+  //     "endDate": "1955-01-01",
+  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+  //     "highlights": ["Relativity"]
+  //   }
+  // ],
+  // "volunteer": [
+  //   {
+  //     "organization": "People's Climate March",
+  //     "position": "Lead Organizer",
+  //     "url": "https://example.com",
+  //     "startDate": "2014-04-01",
+  //     "endDate": "2015-07-01",
+  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //   }
+  // ],
+  "education": [
+    {
+      "institution": "Fudan University",
+      "location": "Shanghai, China",
+      // "url": "https://www.fudan.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2025-06-30",
+      "supervisor": "Yanghua Xiao",
+      "supervisorUrl": "https://scholar.google.com/citations?user=odFW4FoAAAAJ"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Fudan University",
+      "location": "Shanghai, China",
+      // "url": "https://www.fudan.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-30",
+      "supervisor": "Yanghua Xiao",
+      "supervisorUrl": "https://scholar.google.com/citations?user=odFW4FoAAAAJ"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    }
+  ],
+  "experiences": [
+    {
+      "institution": "OSU NLP Group",
+      "location": "Columbus, OH",
+      "job": "Research Intern",
+      "startDate": "2023-07",
+      "endDate": "2024-02",
+      "supervisor": "Yu Su",
+      "supervisorUrl": "https://ysu1989.github.io/"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Meituan",
+      "location": "Shanghai, China",
+      "job": "Research Intern",
+      "startDate": "2022-06",
+      "endDate": "2023-03",
+      "supervisor": "Rui Xie",
+      "supervisorUrl": "https://scholar.google.com/citations?hl=en&user=_GaB4AQAAAAJ"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    }  
+  ],
+  "awards": [
+    {
+      "title": "National Scholarship for Graduate Excellence",
+      "date": "2023-10",
+      // "awarder": "Royal Swedish Academy of Sciences",
+      "url": "http://cs.fudan.edu.cn/ab/5a/c25412a633690/page.htm"
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  // "certificates": [
+    // {
+    //   "name": "Machine Learning",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-location-dot"
+    // },
+    // {
+    //   "name": "Quantum Computing",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-tag"
+    // },
+    // {
+    //   "name": "Quantum Information",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-envelope"
+    // },
+    // {
+    //   "name": "Quantum Cryptography",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-hashtag"
+    // },
+    // {
+    //   "name": "Quantum Communication",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-calendar"
+    // },
+    // {
+    //   "name": "Quantum Teleportation",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // }
+  // ],
+  "publications": [
+    {
+      "name": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+      "publisher": "Preprint",
+      "releaseDate": "2024-02-02",
+      "url": "https://arxiv.org/abs/2402.01622",
+      "summary": "We propose TravelPlanner, a new planning benchmark that focuses on travel planning, a common real-world planning scenario. It provides a rich sandbox environment, various tools for accessing nearly four million data records, and 1,225 meticulously curated planning intents and reference plans."
+    },
+    {
+      "name": "Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning",
+      "publisher": "Preprint",
+      "releaseDate": "2024-01-31",
+      "url": "https://arxiv.org/abs/2401.17686",
+      "summary": "Deductive Beam Search, constrained by the principle of deductive reasoning, integrates CoT with step-wise beam search to guide reasoning towards a deducible path."
+    },
+    {
+      "name": "Towards Visual Taxonomy Expansion",
+      "publisher": "ACMMM 2023",
+      "releaseDate": "2023-10-27",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3581783.3613845",
+      "summary": "We propose Visual Taxonomy Expansion (VTE), introducing visual features into the taxonomy expansion task."
+    },
+    {
+      "name": "SLR:A Million-Scale Comprehensive Crossword Dataset for Simultaneous Learning and Reasoning",
+      "publisher": "Neurocomputing",
+      "releaseDate": "2023-10-14",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231223007142",
+      "summary": "We propose a novel crossword-based NLU task that imparts knowledge information to a model by solving crossword clues and simultaneously trains the model to infer new knowledge from existing knowledge."
+    },
+    {
+      "name": "End-to-End Entity Linking with Hierarchical Reinforcement Learning",
+      "publisher": "AAAI 2023",
+      "releaseDate": "2023-06-26",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25534",
+      "summary": "We propose to model the Entity Linking task as a hierarchical decision-making process and design a hierarchical reinforcement learning algorithm to solve the problem."
+    }
+  ]
+  // "skills": [
+  //   {
+  //     "name": "Physics",
+  //     "level": "Master",
+  //     "icon": "fa-solid fa-hashtag",
+  //     "keywords": [
+  //       "Quantum Mechanics",
+  //       "Quantum Computing",
+  //       "Quantum Information",
+  //       "Quantum Cryptography",
+  //       "Quantum Communication",
+  //       "Quantum Teleportation"
+  //     ]
+  //   }
+  // ],
+  // "languages": [
+  //   {
+  //     "language": "German",
+  //     "fluency": "Native speaker",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "language": "English",
+  //     "fluency": "Fluent",
+  //     "icon": ""
+  //   }
+  // ],
+  // "interests": [
+  //   {
+  //     "name": "Physics",
+  //     "icon": "fa-solid fa-tag",
+  //     "keywords": [
+  //       "Quantum Mechanics",
+  //       "Quantum Computing",
+  //       "Quantum Information",
+  //       "Quantum Cryptography",
+  //       "Quantum Communication",
+  //       "Quantum Teleportation"
+  //     ]
+  //   }
+  // ]
+  // "references": [
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-laptop",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   },
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-thumbtack",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   }
+  // ],
+  // "projects": [
+  //   {
+  //     "name": "Quantum Computing",
+  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+  //     "startDate": "2018-01-01",
+  //     "endDate": "2018-01-01",
+  //     "url": "https://example.com"
+  //   }
+  // ]
+}

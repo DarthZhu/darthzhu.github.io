@@ -75,7 +75,7 @@
   "experiences": [
     {
       "institution": "OSU NLP Group",
-      "location": "Columbus, OH",
+      "location": "Remote",
       "job": "Research Intern",
       "startDate": "2023-07",
       "endDate": "2024-02",
@@ -150,6 +150,13 @@
     // }
   // ],
   "publications": [
+    {
+      "name": "How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?",
+      "publisher": "Preprint",
+      "releaseDate": "2024-04-04",
+      "url": "https://arxiv.org/abs/2404.03302",
+      "summary": "We present a comprehensive investigation into the robustness of LLMs to different types of irrelevant information under various conditions."
+    },
     {
       "name": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
       "publisher": "Preprint",

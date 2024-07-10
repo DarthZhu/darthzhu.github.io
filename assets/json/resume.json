@@ -170,7 +170,7 @@
     },
     {
       "name": "How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?",
-      "publisher": "Preprint",
+      "publisher": "COLM 2024",
       "releaseDate": "2024-04-04",
       "url": "https://arxiv.org/abs/2404.03302",
       "summary": "We present a comprehensive investigation into the robustness of LLMs to different types of irrelevant information under various conditions."
@@ -184,7 +184,7 @@
     },
     {
       "name": "Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning",
-      "publisher": "Preprint",
+      "publisher": "COLM 2024",
       "releaseDate": "2024-01-31",
       "url": "https://arxiv.org/abs/2401.17686",
       "summary": "Deductive Beam Search, constrained by the principle of deductive reasoning, integrates CoT with step-wise beam search to guide reasoning towards a deducible path."

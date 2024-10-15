@@ -162,6 +162,13 @@
   // ],
   "publications": [
     {
+      "name": "Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models",
+      "publisher": "arxiv",
+      "releaseDate": "2024-10-04",
+      "url": "https://arxiv.org/abs/2410.03659",
+      "summary": "We formally define the problem of cross-modality parametric knowledge conflicts by systematically detecing, interpreting, and mitigating them."
+    },
+    {
       "name": "From Persona to Personalization: A Survey on Role-Playing Language Agents",
       "publisher": "TMLR",
       "releaseDate": "2024-04-28",

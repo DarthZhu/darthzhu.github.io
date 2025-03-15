@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bulb: **New paper** on cross-modality parametric knowledge conflicts in LVLMs!
+:bulb: [**New paper**](https://arxiv.org/abs/2410.03659) on cross-modality parametric knowledge conflicts in LVLMs!

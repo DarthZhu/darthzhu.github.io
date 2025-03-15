@@ -162,6 +162,13 @@
   // ],
   "publications": [
     {
+      "name": "MciteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs",
+      "publisher": "arxiv",
+      "releaseDate": "2024-03-04",
+      "url": "https://arxiv.org/abs/2503.02589",
+      "summary": "We introduce MCiteBench, the first benchmark designed to evaluate and analyze the multimodal citation text generation ability of MLLMs. Our benchmark comprises data derived from academic papers and review-rebuttal interactions, featuring diverse information sources and multimodal content."
+    },
+    {
       "name": "Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models",
       "publisher": "arxiv",
       "releaseDate": "2024-10-04",

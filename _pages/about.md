@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 giscus_comments: true
 ---
 
-I am a second year Master student at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/), a member of [Knowledge Works Research Laboratory](http://kw.fudan.edu.cn/), supervised by Professor
+I am a third year Master student at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/), a member of [Knowledge Works Research Laboratory](http://kw.fudan.edu.cn/), supervised by Professor
 [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ).
 
 <!-- Currently, I am a research intern at [OSU NLP group](https://twitter.com/osunlp), supervised by Prof. [Yu Su](https://ysu1989.github.io/). -->

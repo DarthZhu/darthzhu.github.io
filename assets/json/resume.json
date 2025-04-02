@@ -216,14 +216,14 @@
       "releaseDate": "2023-10-14",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231223007142",
       "summary": "We propose a novel crossword-based NLU task that imparts knowledge information to a model by solving crossword clues and simultaneously trains the model to infer new knowledge from existing knowledge."
-    },
-    {
-      "name": "End-to-End Entity Linking with Hierarchical Reinforcement Learning",
-      "publisher": "AAAI 2023",
-      "releaseDate": "2023-06-26",
-      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25534",
-      "summary": "We propose to model the Entity Linking task as a hierarchical decision-making process and design a hierarchical reinforcement learning algorithm to solve the problem."
     }
+    // {
+    //   "name": "End-to-End Entity Linking with Hierarchical Reinforcement Learning",
+    //   "publisher": "AAAI 2023",
+    //   "releaseDate": "2023-06-26",
+    //   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25534",
+    //   "summary": "We propose to model the Entity Linking task as a hierarchical decision-making process and design a hierarchical reinforcement learning algorithm to solve the problem."
+    // }
   ]
   // "skills": [
   //   {

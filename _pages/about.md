@@ -19,18 +19,9 @@ social: true # includes social icons at the bottom of the page
 giscus_comments: true
 ---
 
-I am a third year Master student at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/), a member of [Knowledge Works Research Laboratory](http://kw.fudan.edu.cn/), supervised by Professor
-[Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ).
-
-<!-- Currently, I am a research intern at [OSU NLP group](https://twitter.com/osunlp), supervised by Prof. [Yu Su](https://ysu1989.github.io/). -->
-
-Currently, I am lucky to be a research intern at [LUKA Group](https://luka-group.github.io/index.html), working with Professor [Muhao Chen](https://muhaochen.github.io/).
-Previously, I was a research intern at [OSU NLP Group](https://twitter.com/osunlp), working with Professor [Yu Su](https://ysu1989.github.io/).
-
-<!-- Also, I interned at Meituan NLP Group -->
-
-<!-- My research interests are broadly in Natural Language Processing, focusing on **Language + X**, where **X** $$ \in $$ {Vision, Algorithms, Agents ...}.
-My recent works can be summarized as: -->
+I am an incoming Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), a member of [LUKA Group](https://luka-group.github.io/index.html).
+I am fortunate to be advised by Prof. [Muhao Chen](https://muhaochen.github.io/).
+Before that, I received my Master degree from [Fudan University](https://www.fudan.edu.cn/) in 2025 and my Bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2022.
 
 My research interests are broadly in Natural Language Processing and Multimodality, focusing on **Reasoning**, **Planning**, and **RAG** across different modalities.
 

@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tinghui Zhu",
-    "label": "CS Master Student at Fudan University",
+    "label": "Ph.D. Student at UCDavis",
     // "image": "",
     "email": "darthzhu@gmail.com",
     // "phone": "(912) 123-4567",
@@ -45,6 +45,19 @@
   //   }
   // ],
   "education": [
+    {
+      "institution": "University of California, Davis",
+      "location": "Davis, CA, USA",
+      "url": "https://www.ucdavis.edu/",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2025-09-22",
+      "endDate": "present",
+      "supervisor": "Muhao Chen",
+      "supervisorUrl": "https://muhaochen.github.io/"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    },
     {
       "institution": "Fudan University",
       "location": "Shanghai, China",
@@ -162,6 +175,20 @@
   // ],
   "publications": [
     {
+      "name": "Is Extending Modality The Right Path Towards Omni-Modality?",
+      "publisher": "arxiv",
+      "releaseDate": "2025-06-02",
+      "url": "https://arxiv.org/abs/2506.01872",
+      "summary": "This paper the effect of extending modality, the dominant technique for training multimodal models, where an off-the-shelf language model is fine-tuned on target-domain and language data."
+    },
+    {
+      "name": "Can LLMs Learn to Map the World from Local Descriptions?",
+      "publisher": "arxiv",
+      "releaseDate": "2025-05-27",
+      "url": "https://arxiv.org/abs/2505.20874",
+      "summary": "This study investigates whether LLMs, grounded in locally relative human observations, can construct coherent global spatial cognition by integrating fragmented relational descriptions."
+    },
+    {
       "name": "MciteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs",
       "publisher": "arxiv",
       "releaseDate": "2025-03-04",
@@ -216,14 +243,14 @@
       "releaseDate": "2023-10-14",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231223007142",
       "summary": "We propose a novel crossword-based NLU task that imparts knowledge information to a model by solving crossword clues and simultaneously trains the model to infer new knowledge from existing knowledge."
+    },
+    {
+      "name": "End-to-End Entity Linking with Hierarchical Reinforcement Learning",
+      "publisher": "AAAI 2023",
+      "releaseDate": "2023-06-26",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25534",
+      "summary": "We propose to model the Entity Linking task as a hierarchical decision-making process and design a hierarchical reinforcement learning algorithm to solve the problem."
     }
-    // {
-    //   "name": "End-to-End Entity Linking with Hierarchical Reinforcement Learning",
-    //   "publisher": "AAAI 2023",
-    //   "releaseDate": "2023-06-26",
-    //   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25534",
-    //   "summary": "We propose to model the Entity Linking task as a hierarchical decision-making process and design a hierarchical reinforcement learning algorithm to solve the problem."
-    // }
   ]
   // "skills": [
   //   {

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://cs.fudan.edu.cn/'>School of Computer Science, Fudan University</a>
+subtitle: <a href='https://cs.ucdavis.edu/'>Computer Science, University of California, Davis</a>
 
 profile:
   align: right

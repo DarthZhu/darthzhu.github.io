@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tinghui Zhu",
-    "label": "Ph.D. Student at UCDavis",
+    "label": "Ph.D. Student at UC Davis",
     // "image": "",
     "email": "darthzhu@gmail.com",
     // "phone": "(912) 123-4567",
@@ -51,7 +51,7 @@
       "url": "https://www.ucdavis.edu/",
       "area": "Computer Science",
       "studyType": "Doctor of Philosophy",
-      "startDate": "2025-09-22",
+      "startDate": "2025-09-24",
       "endDate": "present",
       "supervisor": "Muhao Chen",
       "supervisorUrl": "https://muhaochen.github.io/"
@@ -190,7 +190,7 @@
     },
     {
       "name": "MciteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs",
-      "publisher": "arxiv",
+      "publisher": "EMNLP",
       "releaseDate": "2025-03-04",
       "url": "https://arxiv.org/abs/2503.02589",
       "summary": "We introduce MCiteBench, the first benchmark designed to evaluate and analyze the multimodal citation text generation ability of MLLMs. Our benchmark comprises data derived from academic papers and review-rebuttal interactions, featuring diverse information sources and multimodal content."

@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 giscus_comments: true
 ---
 
-I am an incoming Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), a member of [LUKA Group](https://luka-group.github.io/index.html).
+I am a first-year Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), a member of [LUKA Group](https://luka-group.github.io/index.html).
 I am fortunate to be advised by Prof. [Muhao Chen](https://muhaochen.github.io/).
 Before that, I received my Master degree from [Fudan University](https://www.fudan.edu.cn/) in 2025 and my Bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2022.
 

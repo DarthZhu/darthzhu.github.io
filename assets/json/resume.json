@@ -47,7 +47,7 @@
   "education": [
     {
       "institution": "University of California, Davis",
-      "location": "Davis, CA, USA",
+      "location": "Davis, CA",
       "url": "https://www.ucdavis.edu/",
       "area": "Computer Science",
       "studyType": "Doctor of Philosophy",
@@ -91,7 +91,7 @@
       "location": "Remote",
       "job": "Research Intern",
       "startDate": "2024-04",
-      "endDate": "now",
+      "endDate": "2025-05",
       "supervisor": "Muhao Chen",
       "supervisorUrl": "https://muhaochen.github.io/"
       // "score": "10",
@@ -121,6 +121,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Graduate Fellowship",
+      "date": "2025-09"
+      // "awarder": "Royal Swedish Academy of Sciences",
+      // "url": "http://cs.fudan.edu.cn/ab/5a/c25412a633690/page.htm"
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
     {
       "title": "National Scholarship",
       "date": "2023-10",

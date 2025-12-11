@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bulb: **New papers**: [*Be my eyes*](https://arxiv.org/abs/2511.19417) on extending modality through multi-agent collaboration and [*omni-modal guardrail*](https://arxiv.org/abs/2512.02306)!
+:bulb: **New papers**: [_Be my eyes_](https://arxiv.org/abs/2511.19417) on extending modality through multi-agent collaboration and [_omni-modal guardrail_](https://arxiv.org/abs/2512.02306)!

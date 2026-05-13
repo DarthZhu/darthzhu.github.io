@@ -10,4 +10,6 @@ children:
   - title: divider
   - title: lm-extend
     permalink: /lm-extend-page/
+  - title: VideoRLVR
+    permalink: /VideoRLVR-page/
 ---

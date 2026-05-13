@@ -37,7 +37,6 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
-  text-decoration: underline;
 
   &:hover {
     color: var(--global-theme-color);
@@ -47,6 +46,10 @@ table.table a {
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+}
+
+body a {
+  text-decoration: underline;
 }
 
 .table-dark {

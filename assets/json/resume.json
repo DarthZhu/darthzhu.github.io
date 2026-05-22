@@ -182,6 +182,41 @@
   // ],
   "publications": [
     {
+      "name": "Video Models Can Reason with Verifiable Rewards",
+      "publisher": "arxiv",
+      "releaseDate": "2026-05-14",
+      "url": "https://arxiv.org/abs/2605.15458",
+      "summary": "We propose VideoRLVR, a systematic RLVR recipe that turns video models from visual imitators to visual reasoners."
+    },
+    {
+      "name": "When Vision Speaks for Sound",
+      "publisher": "arxiv",
+      "releaseDate": "2026-05-13",
+      "url": "https://arxiv.org/abs/2605.16403",
+      "summary": "We characterize models relying on visual cues and ignoring acoustic information as an audio-visual Clever Hans effect, in which models appear audio-grounded, but actually exploit visual-acoustic correlations without verifying whether the audio and visual streams are truly aligned."
+    },
+    {
+      "name": "Learning Adaptive Reasoning Paths for Efficient Visual Reasoning",
+      "publisher": "arxiv",
+      "releaseDate": "2026-04-16",
+      "url": "https://arxiv.org/abs/2604.14568",
+      "summary": "We propose AVR, an adaptive visual reasoning framework that decomposes visual reasoning into three cognitive functions: visual perception, logical reasoning, and answer application, enabling models to dynamically choose among different response formats."
+    },
+    {
+      "name": "OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning",
+      "publisher": "arxiv",
+      "releaseDate": "2025-12-05",
+      "url": "https://arxiv.org/abs/2512.02306",
+      "summary": "We propose OmniGuard, a unified framework that leverages deliberate reasoning to establish omni-modal guardrails for LLMs, ensuring safe and appropriate responses across diverse modalities."
+    },
+    {
+      "name": "Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration",
+      "publisher": "arxiv",
+      "releaseDate": "2025-11-19",
+      "url": "https://arxiv.org/abs/2511.19417",
+      "summary": "We propose Be My Eyes, a multi-agent collaboration framework that extends the capabilities of LLMs to new modalities through the cooperation of multiple agents."
+    },
+    {
       "name": "Is Extending Modality The Right Path Towards Omni-Modality?",
       "publisher": "arxiv",
       "releaseDate": "2025-06-02",

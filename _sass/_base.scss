@@ -387,6 +387,16 @@ blockquote {
   }
 }
 
+// News
+
+.news {
+  .news-scrollable {
+    max-height: 18rem;
+    overflow-y: auto;
+    padding-right: 0.5rem;
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;

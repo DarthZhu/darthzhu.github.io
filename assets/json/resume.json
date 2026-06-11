@@ -87,6 +87,17 @@
   ],
   "experiences": [
     {
+      "institution": "Google Deepmind",
+      "location": "Mountain View, CA",
+      "job": "Intern",
+      "startDate": "2026-06",
+      "endDate": "2026-09",
+      // "supervisor": "Muhao Chen",
+      // "supervisorUrl": "https://muhaochen.github.io/"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    },
+    {
       "institution": "LUKA Group",
       "location": "Remote",
       "job": "Research Intern",
@@ -225,7 +236,7 @@
     },
     {
       "name": "Can LLMs Learn to Map the World from Local Descriptions?",
-      "publisher": "arxiv",
+      "publisher": "ACL",
       "releaseDate": "2025-05-27",
       "url": "https://arxiv.org/abs/2505.20874",
       "summary": "This study investigates whether LLMs, grounded in locally relative human observations, can construct coherent global spatial cognition by integrating fragmented relational descriptions."

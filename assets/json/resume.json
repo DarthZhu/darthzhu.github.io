@@ -304,6 +304,15 @@
       "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25534",
       "summary": "We propose to model the Entity Linking task as a hierarchical decision-making process and design a hierarchical reinforcement learning algorithm to solve the problem."
     }
+  ],
+  "projects": [
+    {
+      "name": "Early Experience Scaling",
+      "summary": "This project contains open-source code and data reproductions for \"Agent Learning via Early Experience\", with scaled environments and trajectories of more than 500k trajectories and interaction data. The results also show consistent improvements across different domains.",
+      "startDate": "2025-12-01",
+      "endDate": "2026-07-01",
+      "url": "https://github.com/OSU-NLP-Group/EarlyExperience"
+    }
   ]
   // "skills": [
   //   {
@@ -358,14 +367,4 @@
   //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
   //   }
   // ],
-  // "projects": [
-  //   {
-  //     "name": "Quantum Computing",
-  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-  //     "startDate": "2018-01-01",
-  //     "endDate": "2018-01-01",
-  //     "url": "https://example.com"
-  //   }
-  // ]
 }

@@ -3,7 +3,7 @@
     "name": "Tinghui Zhu",
     "label": "Ph.D. Student at UC Davis",
     // "image": "",
-    "email": "darthzhu@gmail.com",
+    "email": "thuzhu@ucdavis.edu",
     // "phone": "(912) 123-4567",
     // "url": "https://alshedivat.github.io/al-folio/",
     // "summary": "CS Master Student at Fudan University",
@@ -194,7 +194,7 @@
   "publications": [
     {
       "name": "Video Models Can Reason with Verifiable Rewards",
-      "publisher": "arxiv",
+      "publisher": "NeurIPS",
       "releaseDate": "2026-05-14",
       "url": "https://arxiv.org/abs/2605.15458",
       "summary": "We propose VideoRLVR, a systematic RLVR recipe that turns video models from visual imitators to visual reasoners."

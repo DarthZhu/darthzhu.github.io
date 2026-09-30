@@ -194,7 +194,7 @@
   "publications": [
     {
       "name": "Video Models Can Reason with Verifiable Rewards",
-      "publisher": "NeurIPS",
+      "publisher": "NeurIPS 2026",
       "releaseDate": "2026-05-14",
       "url": "https://arxiv.org/abs/2605.15458",
       "summary": "We propose VideoRLVR, a systematic RLVR recipe that turns video models from visual imitators to visual reasoners."
@@ -229,21 +229,21 @@
     },
     {
       "name": "Is Extending Modality The Right Path Towards Omni-Modality?",
-      "publisher": "arxiv",
+      "publisher": "ICLR 2026 Workshop on Multimodal Intelligence",
       "releaseDate": "2025-06-02",
       "url": "https://arxiv.org/abs/2506.01872",
       "summary": "This paper the effect of extending modality, the dominant technique for training multimodal models, where an off-the-shelf language model is fine-tuned on target-domain and language data."
     },
     {
       "name": "Can LLMs Learn to Map the World from Local Descriptions?",
-      "publisher": "ACL",
+      "publisher": "ACL 2026",
       "releaseDate": "2025-05-27",
       "url": "https://arxiv.org/abs/2505.20874",
       "summary": "This study investigates whether LLMs, grounded in locally relative human observations, can construct coherent global spatial cognition by integrating fragmented relational descriptions."
     },
     {
       "name": "MciteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs",
-      "publisher": "EMNLP",
+      "publisher": "EMNLP 2025",
       "releaseDate": "2025-03-04",
       "url": "https://arxiv.org/abs/2503.02589",
       "summary": "We introduce MCiteBench, the first benchmark designed to evaluate and analyze the multimodal citation text generation ability of MLLMs. Our benchmark comprises data derived from academic papers and review-rebuttal interactions, featuring diverse information sources and multimodal content."

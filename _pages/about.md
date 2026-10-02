@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 giscus_comments: true
 ---
 
-I am a first-year Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), a member of [LUKA Group](https://luka-group.github.io/index.html).
+I am a second-year Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), a member of [LUKA Group](https://luka-group.github.io/index.html).
 I am fortunate to be advised by Prof. [Muhao Chen](https://muhaochen.github.io/).
-Before that, I received my Master degree from [Fudan University](https://www.fudan.edu.cn/) in 2025 and my Bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2022.
+Previously, I did my summer internship at Google DeepMind in 2026 and got my Master degree from [Fudan University](https://www.fudan.edu.cn/) in 2025 and my Bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2022.
 
 My research interests are broadly in Natural Language Processing and Multimodality, focusing on **Reasoning**, **Planning**, and **Agent** across different modalities.
 

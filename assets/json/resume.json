@@ -138,14 +138,14 @@
       // "awarder": "Royal Swedish Academy of Sciences",
       // "url": "http://cs.fudan.edu.cn/ab/5a/c25412a633690/page.htm"
       // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "National Scholarship",
-      "date": "2023-10",
-      // "awarder": "Royal Swedish Academy of Sciences",
-      "url": "http://cs.fudan.edu.cn/ab/5a/c25412a633690/page.htm"
-      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
+    // {
+    //   "title": "National Scholarship",
+    //   "date": "2023-10",
+    //   // "awarder": "Royal Swedish Academy of Sciences",
+    //   "url": "http://cs.fudan.edu.cn/ab/5a/c25412a633690/page.htm"
+    //   // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    // }
   ],
   // "certificates": [
   // {
